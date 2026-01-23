@@ -9,3 +9,4 @@ if num == comp_num:
     print('PARABÉNS! Você conseguiu me vencer!')
 else:
     print('Ganhei! Eu pensei no número {} e não no {}!'.format(comp_num, num))
+#exercicio
