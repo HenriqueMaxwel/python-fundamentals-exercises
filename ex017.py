@@ -12,4 +12,4 @@ cat_op = float(input('Qual a medida do cateto oposto? '))
 cat_ad = float(input('Qual a medida do cateto adjacente?'))
 hipot = math.hypot(cat_op, cat_ad)
 
-print('O comprimento da hipotenusa é {:.2f}'.format(hipot)
+print('O comprimento da hipotenusa é {:.2f}'.format(hipot))
